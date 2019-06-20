@@ -8,7 +8,7 @@ Website: https://buildingid.pnnl.gov/
 |-|-|-|
 | C# | https://github.com/pnnl/buildingid-csharp | API |
 | JavaScript | https://github.com/pnnl/buildingid-js | API |
-| Python | https://github.com/pnnl/buildingid | API, CLI |
+| Python | https://github.com/pnnl/buildingid-py | API, CLI |
 | Ruby | https://github.com/pnnl/buildingid-rb | API |
 
 ## License

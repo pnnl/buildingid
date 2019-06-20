@@ -1,5 +1,17 @@
 # Frequently Asked Questions
 
+* [What is a UBID?](#what-is-a-ubid)
+* [What are the UBIDs for a given building footprint?](#what-are-the-ubids-for-a-given-building-footprint)
+* [What is a UBID of unit length and width?](#what-is-a-ubid-of-unit-length-and-width)
+* [Why does UBID use OLC as the underlying grid reference system?](#why-does-ubid-use-olc-as-the-underlying-grid-reference-system)
+* [What is the coordinate system for UBID?](#what-is-the-coordinate-system-for-ubid)
+* [What is an appropriate choice of OLC resolution?](#what-is-an-appropriate-choice-of-olc-resolution)
+* [Why does UBID use the centroid of the building footprint?](#why-does-ubid-use-the-centroid-of-the-building-footprint)
+* [What is the rationale for the ordering of extents in a UBID string?](#what-is-the-rationale-for-the-ordering-of-extents-in-a-ubid-string)
+* [How are UBIDs used for duplicate detection?](#how-are-ubids-used-for-duplicate-detection)
+* [How are UBIDs used for error detection?](#how-are-ubids-used-for-error-detection)
+* [Is it possible to "round-trip" a UBID?](#is-it-possible-to-round-trip-a-ubid)
+
 ## What is a UBID?
 
 UBIDs are transparent strings, i.e., no information is hidden.
@@ -18,7 +30,7 @@ The management of assertions is beyond the scope of this document.
 
 ## What are the UBIDs for a given building footprint?
 
-As discussed in **What is a UBID?**, a given building footprint has one UBID per OLC resolution.
+As discussed in ["What is a UBID?"](#what-is-a-ubid), a given building footprint has one UBID per OLC resolution.
 
 ![Depiction of the geometry of the building footprint for AT&amp;T Park, San Francisco, CA. (Data source for map imagery: Bing)](https://raw.githubusercontent.com/pnnl/buildingid-super/master/images/AT_and_T_Park.png)
 

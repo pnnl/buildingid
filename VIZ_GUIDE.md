@@ -4,7 +4,7 @@ The information content of a Unique Building Identifier (UBID) is two geometries
 * the geometry of the [Open Location Code (OLC)](https://github.com/google/open-location-code) grid cell that contains the centroid of the building footprint; and
 * the geometry of the OLC-grid-aligned bounding box that is defined by the north, east, south and west extents.
 
-![Depiction of an exemplar UBID without the source geometry for the building footprint.](images/UBID_visualization_without_geometry.png)
+![Depiction of an exemplar UBID without the source geometry for the building footprint.](https://raw.githubusercontent.com/pnnl/buildingid-super/master/images/UBID_visualization_without_geometry.png)
 
 **Figure 1.**
 Depiction of an exemplar UBID without the source geometry for the building footprint.
@@ -15,7 +15,7 @@ The geometries and extents are depicted as rectangles and double-ended arrows, r
 
 If the north, east, south and west extents are all equal to zero, then, by definition, the two geometries are identical, and only the OLC grid cell that contains the centroid of the building footprint is depicted, i.e., the OLC-grid-aligned bounding box and extents are not depicted.
 
-![Depiction of an exemplar UBID with the source geometry for the building footprint.](images/UBID_visualization_with_geometry.png)
+![Depiction of an exemplar UBID with the source geometry for the building footprint.](https://raw.githubusercontent.com/pnnl/buildingid-super/master/images/UBID_visualization_with_geometry.png)
 
 **Figure 2.**
 Depiction of an exemplar UBID with the source geometry for the building footprint.

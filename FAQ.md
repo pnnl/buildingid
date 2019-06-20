@@ -20,7 +20,7 @@ The management of assertions is beyond the scope of this document.
 
 As discussed in **What is a UBID?**, a given building footprint has one UBID per OLC resolution.
 
-![Depiction of the geometry of the building footprint for AT&amp;T Park, San Francisco, CA. (Data source for map imagery: Bing)](images/AT_and_T_Park.png)
+![Depiction of the geometry of the building footprint for AT&amp;T Park, San Francisco, CA. (Data source for map imagery: Bing)](https://raw.githubusercontent.com/pnnl/buildingid-super/master/images/AT_and_T_Park.png)
 
 **Figure 1.** Depiction of the geometry of the building footprint for AT&amp;T Park, San Francisco, CA. (Data source for map imagery: Bing)
 
@@ -79,12 +79,12 @@ Hence, an appropriate choice of OLC resolution is one that enables the reconcili
 
 The centroid of the building footprint is used (instead of the centroid of the axis-aligned minimum bounding rectangle for the building footprint) because it makes the UBID encoding algorithm robust against situations where UBIDs are assigned to building footprints of irregular shape that are densely packed in a given area.
 
-![Centroids lie within different OLC grid cells at given OLC resolution.](images/l_shaped_distinct_centroid_olc.png)
+![Centroids lie within different OLC grid cells at given OLC resolution.](https://raw.githubusercontent.com/pnnl/buildingid-super/master/images/l_shaped_distinct_centroid_olc.png)
 
 **Figure 2.**
 Centroids lie within different OLC grid cells at given OLC resolution.
 
-![Centroids lie within the same OLC grid cell at given OLC resolution.](images/l_shaped_identical_centroid_olc.png)
+![Centroids lie within the same OLC grid cell at given OLC resolution.](https://raw.githubusercontent.com/pnnl/buildingid-super/master/images/l_shaped_identical_centroid_olc.png)
 
 **Figure 3.**
 Centroids lie within the same OLC grid cell at given OLC resolution.

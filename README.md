@@ -2,6 +2,12 @@
 
 Website: https://buildingid.pnnl.gov/
 
+## UBID Documentation
+
+* [UBID Specification](https://github.com/pnnl/buildingid/blob/master/SPEC.md)
+* [UBID Visualization](https://github.com/pnnl/buildingid/blob/master/VIZ_GUIDE.md)
+* [Frequently Asked Questions](https://github.com/pnnl/buildingid/blob/master/FAQ.md)
+
 ## UBID Implementations
 
 | Programming Language | Repository | Features |

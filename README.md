@@ -14,6 +14,7 @@ Website: https://buildingid.pnnl.gov/
 | Programming Language | Repository | Features |
 |-|-|-|
 | C# | https://github.com/pnnl/buildingid-csharp | API |
+| Java | https://github.com/pnnl/buildingid-java | API |
 | JavaScript | https://github.com/pnnl/buildingid-js | API |
 | PL/pgSQL | https://github.com/pnnl/buildingid-plpgsql | API |
 | Python | https://github.com/pnnl/buildingid-py | API, CLI |
